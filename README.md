@@ -3,6 +3,6 @@ A repository for the data and scripts from our manuscript: "Probing the cis-regu
 
 The raw sequencing reads from the deep mutational scanning experiment are available on the Sequence Read Archive (SRA) at the following link: https://www.ncbi.nlm.nih.gov/sra/PRJNA1021969 or with Project Accession Number: PRJNA1021969.
 
-To reproduce the figures and analysis in the text, we provide a Jupyter notebook in the "data" folder. To run these python scripts, download the "data" folder and run the scripts in Jupyter. The "data" folder also contains an Anaconda environment. For the most reproducible results, we encourage you to run the scripts with the provided environment.
+To reproduce the figures and analysis in the text, we provide a Jupyter notebook in the "data" folder. To run these python scripts, download the "data" folder and run the scripts in Jupyter. The "data" folder also contains an Anaconda environment. For the most reproducible results, we encourage you to run the scripts with the provided environment. However, you can also just read the '.yaml' file for the environment and install the packages manually.
 
 
